@@ -184,5 +184,3 @@ all_trips_v3 %>%
 
 #export for further analysis
 counts <- aggregate(all_trips_v3$ride_length ~ all_trips_v3$member_casual + all_trips_v3$day_of_week, FUN = mean)
-
-# for complete r script click 
