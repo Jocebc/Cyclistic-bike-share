@@ -203,11 +203,5 @@ all_trips_v3 %>%
   arrange(member_casual, month)  %>% 
   ggplot(aes(x = month, y = number_of_rides, fill = member_casual)) +
   geom_col(position = "dodge")
-
-
-
-
-
-
-
-
+ 
+ for complete R script click [here]( https://github.com/Jocebc/Cyclistic-bike-share/commit/9f773b56eb4c3847eee3b01a539b4832f89cc088) to go to link 
