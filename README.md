@@ -145,6 +145,7 @@ all_trips_v3 <- na.omit(all_trips_v2)
 # Analyze
 
 Check min, max, mean, median and any outlier on the ride length.( In seconnds)
+
 summary(all_trips_v3$ride_length)
 
 #Compare members and casual users
