@@ -213,3 +213,17 @@ all_trips_v3 %>%
   geom_col(position = "dodge")
  
  for complete R script click [here](https://github.com/Jocebc/Cyclistic-bike-share/blob/69c26b9c81940cf50ba566f7b2fe64683f8d81da/Google%20Data%20Analytics%20Cyclistics%20Case%20Study) to go to link 
+ 
+# Share
+Data visualizations in tableau 
+
+https://public.tableau.com/app/profile/jocelyn.crawflord/viz/CyclisticsBike-ShareAnalysis/CYCLISTICSBIKE-SHAREANALYSIS?publish=yes
+
+
+
+# Thank you 
+
+ 
+ 
+ 
+ 
